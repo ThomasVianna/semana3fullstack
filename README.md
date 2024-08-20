@@ -1,2 +1,5 @@
 # semana3fullstack
 Exercicios FullStack semana 3
+
+
+DE ACORDO COM O VIDEO APRESENTADO FUI FAZENDO DE ACORDO SÓ MODIFIQUEI AS IMAGENS
